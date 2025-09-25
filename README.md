@@ -1,8 +1,29 @@
-# React + Vite
+Scientific Calculator (React)
+A responsive, accessible scientific calculator built with React. Supports basic arithmetic, advanced scientific functions (sin, cos, tan, log, power, factorial, etc.), keyboard input, history, and clear UI — ideal as a project for learning React, state management, and deploying to GitHub.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
 
-Currently, two official plugins are available:
+Basic operations: + - × ÷
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Scientific functions: sin, cos, tan, asin, acos, atan, log, ln, √, x^y, ! (factorial)
+
+Parentheses and expression evaluation
+
+Keyboard support (numbers, operators, Enter, Backspace)
+
+Responsive layout (desktop + mobile)
+
+Clear / All Clear
+
+Error handling for invalid expressions
+
+Live demo link:
+
+Tech stack
+
+React (Vite)
+
+JavaScript 
+
+CSS
+

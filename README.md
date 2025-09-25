@@ -1,29 +1,30 @@
 Scientific Calculator (React)
-A responsive, accessible scientific calculator built with React. Supports basic arithmetic, advanced scientific functions (sin, cos, tan, log, power, factorial, etc.), keyboard input, history, and clear UI — ideal as a project for learning React, state management, and deploying to GitHub.
+* A responsive, accessible scientific calculator built with React. Supports basic arithmetic, advanced scientific functions (sin, cos, tan, log, power, factorial, etc.), keyboard input, history, and clear UI — ideal as a project for learning React, state management, and deploying to GitHub.
 
 Features
 
-Basic operations: + - × ÷
+* Basic operations: + - × ÷
 
-Scientific functions: sin, cos, tan, asin, acos, atan, log, ln, √, x^y, ! (factorial)
+* Scientific functions: sin, cos, tan, asin, acos, atan, log, ln, √, x^y, ! (factorial)
 
-Parentheses and expression evaluation
+* Parentheses and expression evaluation
 
-Keyboard support (numbers, operators, Enter, Backspace)
+* Keyboard support (numbers, operators, Enter, Backspace)
 
-Responsive layout (desktop + mobile)
+* Responsive layout (desktop + mobile)
 
-Clear / All Clear
+* Clear / All Clear
 
-Error handling for invalid expressions
+*Error handling for invalid expressions
 
 Live demo link:
+https://scientificcalculator85.netlify.app/
 
 Tech stack
 
-React (Vite)
+* React (Vite)
 
-JavaScript 
+* JavaScript 
 
-CSS
+* CSS
 

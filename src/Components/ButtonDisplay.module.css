@@ -1,0 +1,21 @@
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: grey;
+    
+    }
+    .button{
+    width: 45px;
+    height: 45px;
+    margin: 12px; 
+    background-color:grey;
+      color:silver;
+    }
+    body, html {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: silver;
+      }
